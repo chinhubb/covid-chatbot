@@ -39,7 +39,7 @@ const broadcast = (current) => {
     headers: {
       "Content-Type": "application/json",
       Authorization:
-        "Bearer vtm+WF/K2tPbgRQ3EYR1FYhNXa3D8QJR9ZUiWhK0w/JgZFE3KFVRApnMY14PlQcSKkeOp3kI0uPaBsSlS8m43Dp9m7fcATN08/sopYPIwNMgrw8+8Vdya+jluW7Ms0epoP5eLsRkuinCdEW0uaQBkAdB04t89/1O/w1cDnyilFU=",
+        "Bearer xxxx",
     },
     data: JSON.stringify({
       messages: [
